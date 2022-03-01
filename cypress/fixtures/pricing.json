@@ -1,0 +1,23 @@
+{
+  "dolar": {
+    "currency": "$ USD",
+    "value": "usd",
+    "starter": "$12",
+    "professional": "$32",
+    "ultimate": "$48"
+  },
+  "pound": {
+    "currency": "£ GBP",
+    "value": "gbp",
+    "starter": "£10",
+    "professional": "£24",
+    "ultimate": "£39"
+  },
+  "euro": {
+    "currency": "€ EUR",
+    "value": "eur",
+    "starter": "11€",
+    "professional": "28€",
+    "ultimate": "43€"
+  }
+}
